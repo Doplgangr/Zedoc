@@ -8,12 +8,17 @@ date: 2015-01-15
 
 ##前言
 
-由于要为同学和自己开发的web框架搭一个website，所以想到用jekyll写一个模板，一方面是满足自己的需求，另一方面是为后来人提供方便。这篇博文将详细记录我的模板搭建过程。
-
 首先，在这里要感谢@ yyx990803（尤小右）大神，里面大部分的布局都引用自他为vue.js搭的website，不过他提供的是一个hexo主题，我们给出了jekyll模板。
 
 [模板请点这里](https://github.com/suemi994/Zedoc)
 [live demo](http://zetajs.io)
+
+##效果展示
+- ![主页展示](http:suemi994.github.io/public/img/2015-01-15-home.png)
+
+
+- ![guide展示](http:suemi994.github.io/public/img/2015-01-15-guide.png)
+
 
 ##使用
 
@@ -80,8 +85,3 @@ collections:
 
 ~~~
 
-##效果展示
-- ![主页展示](/public/img/2015-01-15-home.png)
-
-
-- ![guide展示](/public/img/2015-01-15-guide.png)
