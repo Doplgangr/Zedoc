@@ -1,10 +1,6 @@
----
-layout: post
-title: jekyll模板之Zedoc
-category: tools
-tags: jekyll
-date: 2015-01-15
----
+#Zedoc
+---------------
+A jekyll template for doc website.
 
 ##前言
 
@@ -14,10 +10,10 @@ date: 2015-01-15
 [live demo](http://zetajs.io)
 
 ##效果展示
-- ![主页展示](http:suemi994.github.io/public/img/2015-01-15-home.png)
+- ![主页展示](http://suemi994.github.io/public/img/2015-01-15-home.png)
 
 
-- ![guide展示](http:suemi994.github.io/public/img/2015-01-15-guide.png)
+- ![guide展示](http://suemi994.github.io/public/img/2015-01-15-guide.png)
 
 
 ##使用
