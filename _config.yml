@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
  Zeta is a simple, fast, and very extendable Web Framework in Nodejs.
 
  Help you to Write your node web app in an angular and unexpress way.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/Zedoc" # the subpath of your site, e.g. /blog/
 url: "http://zetajs.io" # the base hostname & protocol for your site
 
 
