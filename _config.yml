@@ -3,8 +3,7 @@ title: Secrecy Support Team
 subtitle: Defending Your Files
 logo: /img/logo.svg
 favicon: /img/logo.svg
-description: > # this means to ignore newlines until "baseurl:"
-Secrecy is where you can safely put your files without worrying that others will see it.
+description: Secrecy is where you can safely put your files without worrying that others will see it.
 baseurl: "/Zedoc" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
